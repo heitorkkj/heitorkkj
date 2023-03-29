@@ -1,4 +1,12 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=DB44FD&height=150&section=header&fontSize=90)
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DB44FD&center=true&width=435&lines=Hi!+I'm++Heitor+Santos;I'm+studying+for+web+development)](https://git.io/typing-svg)
+
+
+![Heitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=heitorkkj&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heitorkkj&langs_count=8)](https://github.com/heitorkkj/heitorkkj.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heitorkkj&repo=heitorkkj.github.io)](https://github.com/heitorkkj/heitorkkj.github.io)
 
 <!--
 **heitorkkj/heitorkkj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=DB44FD&height=150&section=footer&fontSize=90)
