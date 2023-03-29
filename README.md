@@ -8,7 +8,7 @@
      <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorkkj&layout=compact&hide_border=true&title_color=DB44FD&text_color=ffff&bg_color=0d1117" />
 </div>
 
-<div align="center"><br>
+<div align="center"><br/><br/><br/>
   <img align="center" alt="heitorsantos-Js" height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="heitorsantos-java" height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="heitorsantos-nodejs"/>
@@ -19,6 +19,24 @@
   <img align="center" alt="heitorsantos-php" height="40" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
 </div>
 
+##
+ 
+<ul align="left">
+    <li>💕 Sou apaixonado por Tecnologia, ciclismo, música e aprendizado.</li>
+    <li>📜 Faço cursos na <a href="https://udemy.com/" target="_blank">Udemy</a>, com o foco de entregar mais e melhor para o mercado</li>
+    <li>💻 Atualmente estudando: <b>NodeJS</b> e <b>React</b>.</li>
+    <li>📚 Pretendo continuar estudando frameworks na busca de ser um desenvolvedor que saiba resolver problemas reais do dia a dia.</li>
+</ul>
+
+##
+
+<div> 
+  <a href="https://www.instagram.com/heitorsantos548/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/heitor-santos-alves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:heitorsan548@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://open.spotify.com/user/uhbi2i77dt5ju2jqbpqxmin3c?si=514a38a32044497f" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+ 
+</div>
 <!--
 **heitorkkj/heitorkkj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
