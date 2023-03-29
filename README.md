@@ -8,7 +8,7 @@
      <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorkkj&layout=compact&hide_border=true&title_color=DB44FD&text_color=ffff&bg_color=0d1117" />
 </div>
 
-<div align="center"><br/><br/><br/>
+<div align="center"><br/><br/>
   <img align="center" alt="heitorsantos-Js" height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="heitorsantos-java" height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="heitorsantos-nodejs"/>
