@@ -5,8 +5,8 @@
 
 <div align="center">
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=heitorkkj&show_icons=true&count_private=true&hide_border=true&title_color=7F3ACE&icon_color=7F3ACE&text_color=ffff&bg_color=0d1117"  alt="Heitor Santos github stats"/>
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorkkj&layout=compact)](https://github.com/heitorkkj/heitorkkj.github.io"/>
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=heitorkkj&repo=heitorkkj.github.io)](https://github.com/heitorkkj/heitorkkj.github.io"/>
+     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorkkj&layout=compact&hide_border=true&title_color=7F3ACE&text_color=ffff&bg_color=0d1117" />
+
 </div>
 
 <!--
