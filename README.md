@@ -24,7 +24,7 @@
     <li>💕 Sou apaixonado por Tecnologia, ciclismo, música e aprendizado.</li>
     <li>📜 Faço cursos na <a href="https://udemy.com/" target="_blank">Udemy</a>, com o foco de entregar mais e melhor para o mercado</li>
     <li>🧐 Na minha visão e planejamento de vida, cursos da Udemy não são o meu limite, porém, enquanto não termino o curso técnico é uma maneira de buscar evolução e partir para o mercado de trabalho e formação superior com minha própria base e norral.</li>
-    <li>💻 Atualmente estudando: <b>NodeJS</b> e <b>React</b>.</li>
+    <li>💻 Atualmente estudando: <b>NodeJS</b>, <b>React</b>, <b>PHP</b> e em ambiente escolar <b>C#</b> e <b>Java</b>.</li>
     <li>📚 Pretendo continuar estudando frameworks na busca de ser um desenvolvedor que saiba resolver problemas reais do dia a dia.</li>
 </ul>
 
